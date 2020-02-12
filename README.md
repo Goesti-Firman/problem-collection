@@ -6,14 +6,14 @@ Cukup 1 masalah saja.
 Lakukan Fork repositori ini, bukan clone.
 
 # Problem
-(tulis masalah disini)
+Kamar mandi laki laki di SMPN 1 Sekarang keran nya tidak bisa digunakan,Hal tsb menyebabkan Kamar Mandi berbau sangat tidak sedap
 
 # Solution
-(tulis solusi disini)
+Untuk solusi,sebaiknya memanggil/mengundang tukang untuk memperbaiki keran tersebut.
 
 
 ## Author
-by (tulis nama kamu) 
+by Goesti Firman Maulana
 
 
 cc: SMPN 1 Semarang
