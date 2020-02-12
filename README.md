@@ -6,14 +6,15 @@ Cukup 1 masalah saja.
 Lakukan Fork repositori ini, bukan clone.
 
 # Problem
-(tulis masalah disini)
+Banyak saran saran siswa yang belum tertampung oleh sekolah.
 
 # Solution
-(tulis solusi disini)
+Membuat sebuah website tentang menampung saran saran siswa secara online.
 
 
 ## Author
-by (tulis nama kamu) 
+by Goesti Firman Maulana
+8F
 
 
 cc: SMPN 1 Semarang
